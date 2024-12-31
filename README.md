@@ -10,4 +10,7 @@
 
 # Quantum algorithms
 
-<img src="images/vortices.png" alt="Example Image" width="500"/>
+<p align="center">
+  <img src="images/image1.png" alt="Image 1" width="300"/>
+  <img src="images/image2.png" alt="Image 2" width="300"/>
+</p>
