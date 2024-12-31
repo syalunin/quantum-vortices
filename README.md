@@ -11,8 +11,8 @@
 # Quantum algorithms
 
 <p align="center">
-  <img src="images/vortices.png" alt="Image 1" width="200" style="margin-right: 100px" />
-  <img src="images/vortices.png" alt="Image 2" width="300"/>
+  <img src="images/vortices.png" alt="Image 1" width="400" style="margin-right: 100" />
+  <img src="images/vortices.png" alt="Image 2" width="400"/>
 </p>
 
 $$
