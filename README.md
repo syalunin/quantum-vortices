@@ -1,3 +1,5 @@
+|PyPI| |conda-forge| |Python| |GitHub| |JOSS|
+
 # Colorcet: Collection of perceptually uniform colormaps
 
 |    |    |
