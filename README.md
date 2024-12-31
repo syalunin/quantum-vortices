@@ -11,7 +11,7 @@
 # Quantum algorithms
 
 <p align="center">
-  <img src="images/vortices.png" alt="Image 1" width="400" style="margin-right: 20px;">
+  <img src="images/vortices.png" alt="Image 1" width="400" style="margin-right: 20px">
   <img src="images/vortices.png" alt="Image 2" width="400">
 </p>
 
