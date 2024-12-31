@@ -32,6 +32,7 @@ project/
 │   └── index.rst
 │
 └── README.md
+```
 
 ## Installation
 
