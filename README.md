@@ -10,7 +10,7 @@
 
 # Quantum algorithms
 
-<p style="padding-left: 20px;">
+<p>
   <img src="images/vortices.png" alt="Image 1" width="400" style="margin-right: 50;"> &nbsp
   <img src="images/vortices.png" alt="Image 2" width="400">
 </p>
