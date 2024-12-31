@@ -10,3 +10,4 @@
 
 # Quantum algorithms
 
+![Example Image](images/vortices.png)
