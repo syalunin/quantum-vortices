@@ -4,8 +4,7 @@
 [![OpenGL](https://img.shields.io/badge/OpenGL-4.1-blue)](https://www.opengl.org/)
 [![GLSL](https://img.shields.io/badge/GLSL-4.10-blue)](https://docs.gl/sl4/all)
 [![arpack-ng](https://img.shields.io/badge/arpack-ng-blue?logo=github)](https://github.com/opencollab/arpack-ng)
-[![oneAPI](https://img.shields.io/badge/Intel%20oneAPI%202023.2-blue)](https://software.intel.com/content/www/us/en/develop/tools/oneapi.html)
-[![MKL](https://img.shields.io/badge/Intel%20MKL%202023.2-blue)](https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library.html)
+[![MKL](https://img.shields.io/badge/Intel%20MKL%202023-blue)](https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library.html)
 
 
 
