@@ -10,4 +10,4 @@
 
 # Quantum algorithms
 
-![Example Image](images/vortices.png)
+<img src="images/vortices.png" alt="Example Image" width="500"/>
