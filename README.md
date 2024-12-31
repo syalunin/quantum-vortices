@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="images/vortices.png" alt="Image 1" width="400"/>
-  <br/>
+  <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="images/vortices.png" alt="Image 2" width="400"/>
 </p>
 
