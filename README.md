@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p>
   <img src="images/vortices.png" alt="Image 1" width="400" margin-right="50">
   <img src="images/vortices.png" alt="Image 2" width="400">
 </p>
