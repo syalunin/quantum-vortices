@@ -19,6 +19,20 @@ $$
 E= \sqrt{x^2+1}
 $$
 
+## Structure
+
+```plaintext
+project/
+│
+├── src/
+│   ├── main.py
+│   ├── utils.py
+│
+├── docs/
+│   └── index.rst
+│
+└── README.md
+
 ## Installation
 
 Colorcet supports Python 3.7 and greater on Linux, Windows, or Mac
