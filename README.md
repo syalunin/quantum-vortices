@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3.9-blue)
+
 |PyPI| |conda-forge| |Python| |GitHub| |JOSS|
 
 # Colorcet: Collection of perceptually uniform colormaps
