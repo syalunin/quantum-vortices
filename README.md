@@ -1,4 +1,4 @@
-![Fortran](https://img.shields.io/badge/fortran-90-blue)!![Python](https://img.shields.io/badge/python-3.9-blue)
+![Fortran](https://img.shields.io/badge/fortran-2003-blue)!![Python](https://img.shields.io/badge/python-3.9-blue)
 
 |PyPI| |conda-forge| |Python| |GitHub| |JOSS|
 
