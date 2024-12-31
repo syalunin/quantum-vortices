@@ -11,10 +11,11 @@
 
 # Quantum algorithms
 
-<p>
-  <img src="images/vortices.png" alt="Image 1" width="400" style="margin-right: 50;"> &nbsp
-  <img src="images/vortices.png" alt="Image 2" width="400">
-</p>
+.. image:: https://github.com/Quantum-algorithms/images/vortices.png
+    :width: 100%
+    :align: center
+    :target: https://cmasher.readthedocs.io
+    :alt: CMasher Colormap Overview
 
 $$
 E= \sqrt{x^2+1}
