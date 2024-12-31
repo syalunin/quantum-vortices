@@ -18,3 +18,18 @@
 $$
 E= \sqrt{x^2+1}
 $$
+
+## Installation
+
+Colorcet supports Python 3.7 and greater on Linux, Windows, or Mac
+and can be installed with conda:
+
+```sh
+conda install colorcet
+```
+
+or with pip:
+
+```sh
+python -m pip install colorcet
+```
