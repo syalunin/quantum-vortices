@@ -20,20 +20,6 @@ $$
 E= \sqrt{x^2+1}
 $$
 
-## Structure
-
-```plaintext
-│
-├── src/
-│   ├── main.py
-│   ├── utils.py
-!
-├── colormap/
-│   └── index.rst
-│
-!--- images
-└── README.md
-```
 
 ## Installation
 
