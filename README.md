@@ -22,15 +22,15 @@ $$
 ## Structure
 
 ```plaintext
-project/
 │
 ├── src/
 │   ├── main.py
 │   ├── utils.py
-│
-├── docs/
+!
+├── colormap/
 │   └── index.rst
 │
+!--- images
 └── README.md
 ```
 
