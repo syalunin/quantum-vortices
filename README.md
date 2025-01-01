@@ -32,7 +32,3 @@ Here are some pictures to illustrate the project: Formation of a gexagonal latti
   <img src="images/quantum_vortices.png" alt="Image 1" width="570" style="margin-right: 50;"> &nbsp
   <img src="images/oscillator.png" alt="Image 2" width="380">
 </p>
-
-$$
-E= \sqrt{x^2+1}
-$$
