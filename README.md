@@ -20,10 +20,10 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 - Intel Fortran and C++ compilers
 
 ### Dependencies
-- GLFW
-- OpenGL
+- GLFW 3.x
+- OpenGL 4.1
 - Intel MKL
-- Arpack)
+- Arpack-ng
 
 ## Usage
 To build the project, run the 'make' command in the root directory. This will generate the executables.
