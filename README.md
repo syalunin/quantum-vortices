@@ -12,7 +12,7 @@
 
 This repositariy offers tools to solve 
 <p>
-  <img src="images/vortices.png" alt="Image 1" width="400" style="margin-right: 50;"> &nbsp
+  <img src="images/oscillator.png" alt="Image 1" width="400" style="margin-right: 50;"> &nbsp
   <img src="images/vortices.png" alt="Image 2" width="400">
 </p>
 
