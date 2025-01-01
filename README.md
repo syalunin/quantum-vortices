@@ -10,7 +10,21 @@
 
 # Quantum algorithms
 
-This repositariy offers tools to solve 
+This repositariy offers tools to solve
+A brief description of the project and its purpose.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+### Prerequisites
+- Python 3.x
+- Dependencies (list of libraries)
+
+## Usage
+To run the project, use:
+
 <p>
   <img src="images/oscillator.png" alt="Image 1" width="400" style="margin-right: 50;"> &nbsp
   <img src="images/vortices.png" alt="Image 2" width="400">
