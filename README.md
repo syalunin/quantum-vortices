@@ -42,17 +42,6 @@ E= \sqrt{x^2+1}
 $$
 
 
-## Installation
-
-gvdfgvd supports Python 3.7 and greater on Linux, Windows, or Mac
-and can be installed with conda:
-
-```sh
-conda install fvdfvfd
-```
-
-or with pip:
-
 ```sh
 python -m pip install dfvdfv
 ```
