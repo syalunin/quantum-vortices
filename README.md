@@ -40,8 +40,3 @@ Here are some images showcasing the project:
 $$
 E= \sqrt{x^2+1}
 $$
-
-
-```sh
-python -m pip install dfvdfv
-```
