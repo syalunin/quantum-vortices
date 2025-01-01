@@ -32,7 +32,7 @@ conda install fvdfvfd
 Here are some images showcasing the project:
 
 <p>
-  <img src="images/quantum_vortices.png" alt="Image 1" width="400" style="margin-right: 50;"> &nbsp
+  <img src="images/quantum_vortices.png" alt="Image 1" width="600" style="margin-right: 50;"> &nbsp
   <img src="images/oscillator.png" alt="Image 2" width="300">
 </p>
 
