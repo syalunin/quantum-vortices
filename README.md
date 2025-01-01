@@ -22,7 +22,7 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 - Dependencies (list of libraries)
 
 ## Usage
-To run the project, use:
+To run the project, execute the following commands in the root directory:
 ```sh
 conda install fvdfvfd
 ```
