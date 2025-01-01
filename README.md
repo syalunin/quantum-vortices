@@ -24,6 +24,13 @@ A brief description of the project and its purpose.
 
 ## Usage
 To run the project, use:
+```sh
+conda install fvdfvfd
+```
+
+## Gallery
+
+Here are some images showcasing the project:
 
 <p>
   <img src="images/oscillator.png" alt="Image 1" width="400" style="margin-right: 50;"> &nbsp
