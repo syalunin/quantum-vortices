@@ -22,7 +22,7 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 - Dependencies (list of libraries)
 
 ## Usage
-To run the project, execute the "make" commands in the root directory. It will create the ececutables.
+To build the project, run the 'make' command in the root directory. This will generate the executables.
 
 ## Gallery
 
