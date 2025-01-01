@@ -10,7 +10,7 @@
 # Quantum vortices
 
 This repository provides powerful tools for solving the nonlinear Schrödinger equation in a wide range of applications,
-ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled as superfluids.
+ranging from ultra-cold atoms and superconductivity to superfluid-related cosmic phenomena.
 
 ## Features
 - Calculation of eigenvalues and eigenvectors
