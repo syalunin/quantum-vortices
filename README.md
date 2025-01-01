@@ -6,11 +6,9 @@
 [![arpack-ng](https://img.shields.io/badge/arpack-ng-blue?logo=github)](https://github.com/opencollab/arpack-ng)
 
 
-
 # Quantum vortices
 
-This repository provides powerful tools for solving the nonlinear Schrödinger equation arising in a wide range of applications,
-ranging from ultra-cold atoms and superconductivity to superfluid-related cosmic phenomena.
+This repository provides powerful tools for solving the nonlinear Schrödinger equation arising in a wide range of applications, ranging from Bose-Einstein condensation of ultracold atoms and superconductivity to superfluid-related cosmic phenomena
 
 ## Features
 - Real and imaginary time evolution
