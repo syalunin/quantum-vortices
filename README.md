@@ -13,12 +13,17 @@ This repository provides powerful tools for solving the nonlinear Schrödinger e
 ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled as superfluids.
 
 ## Features
-- Calculation of the eigenvalues and the eigenvectors
-- Real and imaginary time preparation
+- Calculation of eigenvalues and eigenvectors
+- Real and imaginary time evolution
 
 ### Prerequisites
 - Intel Fortran and C++ compilers
-- Dependencies (GLFW, OpenGL, Intel MKL, Arpack)
+
+### Dependencies
+- GLFW
+- OpenGL
+- Intel MKL
+- Arpack)
 
 ## Usage
 To build the project, run the 'make' command in the root directory. This will generate the executables.
