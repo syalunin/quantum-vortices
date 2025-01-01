@@ -9,8 +9,7 @@
 
 # Quantum algorithms
 
-This repositariy offers tools to solve
-A brief description of the project and its purpose.
+This repository provides powerful tools for solving the nonlinear and linear Schrödinger equations.
 
 ## Features
 - Feature 1
