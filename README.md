@@ -29,7 +29,7 @@ conda install fvdfvfd
 
 ## Gallery
 
-Here are some screenshots to illustrate the project: Formation of a gexagonal lattice of vortices in the Bose Einstein condensate (left) and the eigenstates of a harmonic oscillator (right).
+Here are some pictures to illustrate the project: Formation of a gexagonal lattice of vortices in the Bose Einstein condensate (left) and the eigenstates of a harmonic oscillator (right).
 
 <p>
   <img src="images/quantum_vortices.png" alt="Image 1" width="570" style="margin-right: 50;"> &nbsp
