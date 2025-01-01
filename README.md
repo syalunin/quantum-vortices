@@ -24,7 +24,8 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 ## Usage
 To run the project, execute the following commands in the root directory:
 ```sh
-conda install fvdfvfd
+make
+./main_nls.x
 ```
 
 ## Gallery
