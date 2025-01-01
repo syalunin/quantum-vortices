@@ -24,7 +24,7 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 ## Usage
 To run the project, execute the following commands in the root directory:
 ```sh
-make
+make main_nls
 ./main_nls.x
 ```
 
