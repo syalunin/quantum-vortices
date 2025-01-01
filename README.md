@@ -33,7 +33,7 @@ Here are some screenshots to illustrate the project: Formation of a gexagonal la
 
 <p>
   <img src="images/quantum_vortices.png" alt="Image 1" width="600" style="margin-right: 50;"> &nbsp
-  <img src="images/oscillator.png" alt="Image 2" width="300">
+  <img src="images/oscillator.png" alt="Image 2" width="400">
 </p>
 
 $$
