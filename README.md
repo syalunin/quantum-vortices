@@ -18,8 +18,8 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 - Feature 3
 
 ### Prerequisites
-- Python 3.x
-- Dependencies (list of libraries)
+- Intel Fortran and C++ compilers
+- Dependencies (GLFW, OpenGL, Intel MKL, Arpack)
 
 ## Usage
 To build the project, run the 'make' command in the root directory. This will generate the executables.
