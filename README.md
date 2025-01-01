@@ -20,7 +20,7 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 - Intel Fortran and C++ compilers
 
 ### Dependencies
-- GLFW 3.x
+- GLFW 3.4
 - OpenGL 4.1
 - Intel MKL
 - Arpack-ng
