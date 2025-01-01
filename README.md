@@ -22,11 +22,7 @@ ranging from ultra-cold atoms and superconductivity to cosmic phenomena modeled 
 - Dependencies (list of libraries)
 
 ## Usage
-To run the project, execute the following commands in the root directory:
-```sh
-make main_nls
-./main_nls.x
-```
+To run the project, execute the "make" commands in the root directory. It will create the ececutables.
 
 ## Gallery
 
