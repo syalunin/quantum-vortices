@@ -32,8 +32,8 @@ conda install fvdfvfd
 Here are some screenshots to illustrate the project: Formation of a gexagonal lattice of vortices in the Bose Einstein condensate (left) and the eigenstates of a harmonic oscillator (right).
 
 <p>
-  <img src="images/quantum_vortices.png" alt="Image 1" width="600" style="margin-right: 50;"> &nbsp
-  <img src="images/oscillator.png" alt="Image 2" width="400">
+  <img src="images/quantum_vortices.png" alt="Image 1" width="570" style="margin-right: 50;"> &nbsp
+  <img src="images/oscillator.png" alt="Image 2" width="380">
 </p>
 
 $$
