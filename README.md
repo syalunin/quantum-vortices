@@ -33,7 +33,7 @@ Here are some images showcasing the project:
 
 <p>
   <img src="images/quantum_vortices.png" alt="Image 1" hight="400" style="margin-right: 50;"> &nbsp
-  <img src="images/vortices.png" alt="Image 2" hight="400">
+  <img src="images/oscillator.png" alt="Image 2" hight="400">
 </p>
 
 $$
