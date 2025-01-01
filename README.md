@@ -13,8 +13,8 @@ This repository provides powerful tools for solving the nonlinear Schrödinger e
 ranging from ultra-cold atoms and superconductivity to superfluid-related cosmic phenomena.
 
 ## Features
-- Calculation of eigenvalues and eigenvectors
 - Real and imaginary time evolution
+- Calculation of eigenvalues and eigenvectors
 
 ### Prerequisites
 - Intel Fortran and C++ compilers
