@@ -28,7 +28,7 @@ To build the project, run the 'make' command in the root directory. This will ge
 
 ## Gallery
 
-Here are some pictures to illustrate the project: formation of a hexagonal lattice of vortices in the Bose Einstein condensate (top) and the eigenstates of a harmonic oscillator (bottom).
+Here are some pictures to illustrate the project: (top) formation of a hexagonal lattice of vortices in the Bose Einstein condensate and (bottom) the eigenstates of a harmonic oscillator.
 
 <p>
   <img src="images/quantum_vortices.png" alt="Image 1" width="960">
