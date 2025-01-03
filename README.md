@@ -18,7 +18,7 @@ This repository provides powerful tools for solving the nonlinear Schrödinger e
 - Intel Fortran and C++ compilers
 
 ### Dependencies
-- GLFW 3.4 (or higher)
+- GLFW 3.4 or higher
 - OpenGL 4.1
 - Intel MKL
 - Arpack-ng
