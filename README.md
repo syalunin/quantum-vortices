@@ -18,8 +18,8 @@ This repository provides tools for solving the nonlinear Schrödinger equation a
 - Intel Fortran and C++ compilers
 
 ### Dependencies
-- GLFW 3.4 or higher
-- OpenGL 4.1
+- GLFW version 3.4 or newer
+- OpenGL version 4.1
 - Intel MKL
 - Arpack-ng
 
