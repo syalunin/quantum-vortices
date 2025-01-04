@@ -22,8 +22,8 @@ To build this project from the source code in this repository you need to have t
 - Intel MKL
 - Arpack-ng
 
-## Usage
-To build the project, run the 'make' command in the root directory. This will generate the executables.
+### Building
+To generate the executables, run the 'make' command in the root directory.
 
 ## Gallery
 
