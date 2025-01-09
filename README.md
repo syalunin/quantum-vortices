@@ -29,6 +29,7 @@ To generate the executables, run the 'make' command in the root directory.
 
 Here are some pictures to illustrate the project: (top) formation of a hexagonal lattice of vortices in the Bose Einstein condensate and (bottom) the eigenstates of a harmonic oscillator.
 
+![alt text](images/vortices.png)
 <p>
   <img src="images/vortices.png" alt="Image 1" width="960">
   <img src="images/oscillator.png" alt="Image 2" width="480">
