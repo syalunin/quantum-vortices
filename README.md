@@ -10,7 +10,7 @@
 
 This repository provides tools for solving the nonlinear Schrödinger equation arising in a wide range of applications, ranging from Bose-Einstein condensation of ultracold atoms and superconductivity to superfluid-related cosmic phenomena.
 
-## Features
+### Features
 - Real and imaginary time evolution
 - Calculation of eigenvalues and eigenvectors
 
@@ -25,7 +25,7 @@ To build this project from the source code in this repository you need to have t
 ### Building
 To generate the executables, run the 'make' command in the root directory.
 
-## Gallery
+### Gallery
 
 Here are some pictures to illustrate the project: (top) formation of a hexagonal lattice of vortices in the Bose Einstein condensate and (bottom) the eigenstates of a harmonic oscillator.
 
