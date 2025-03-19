@@ -2,7 +2,6 @@
 
 echo "*.log" > .gitignore
 echo "*.env" >> .gitignore
-echo "*.bak" >> .gitignore
 echo "*.DS_Store" >> .gitignore
 
 git add .
