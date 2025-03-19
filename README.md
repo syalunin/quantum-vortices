@@ -14,8 +14,8 @@ This repository provides tools for solving the nonlinear Schrödinger equation a
 - Real and imaginary time evolution
 - Calculation of eigenvalues and eigenvectors
 
-### Installation
-To build this project from the source code in this repository you need to have the following:
+### Prerequisites
+Before compiling this project, make sure that the following tools are installed:
 - Intel Fortran and C++ compilers
 - GLFW version 3.4 or newer
 - OpenGL version 4.1
