@@ -6,5 +6,5 @@ echo "*.bak" >> .gitignore
 echo "*.DS_Store" >> .gitignore
 
 git add .
-git commit -m "update repository"
+git commit -m "Update repository"
 git push origin main
