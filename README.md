@@ -5,7 +5,6 @@
 [![MKL](https://img.shields.io/badge/Intel%20MKL-2023.2-blue)](https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library.html)
 [![arpack-ng](https://img.shields.io/badge/arpack-ng-blue?logo=github)](https://github.com/opencollab/arpack-ng)
 
-
 # Quantum vortices
 
 This repository provides tools for solving the nonlinear Schrödinger equation arising in a wide range of applications, ranging from Bose-Einstein condensation of ultracold atoms and superconductivity to superfluid-related cosmic phenomena.
