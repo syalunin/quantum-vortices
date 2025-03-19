@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "*.x" >> .gitignore
 echo "*.log" > .gitignore
 echo "*.env" >> .gitignore
 echo "*.DS_Store" >> .gitignore
