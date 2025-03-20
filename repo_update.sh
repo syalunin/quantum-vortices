@@ -5,11 +5,15 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
-echo "*.x" >> .gitignore
-echo "*.log" >> .gitignore
-echo "*.env" >> .gitignore
-echo "*.DS_Store" >> .gitignore
-echo "repo_update.sh" >> .gitignore
+gitignore_add_pattern() {
+  local pattern="$1"
+  local file=".gitignore"
+  grep -qxF "$pattern" "$file" || echo "$pattern" >> "$file"
+}
+
+gitignore_add_pattern "*.x"
+gitignore_add_pattern "*.DS_Store"
+gitignore_add_pattern "repo_update.sh"
 
 git add .
 git commit -m "$1"
