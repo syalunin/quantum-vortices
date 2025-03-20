@@ -111,11 +111,11 @@ program main_nls
       enddo
       !
       pos = [-1.0, 0.0, 1.0, 1.0]
-      call gl_set_colormap("colormap/rainbow1024.txt")
+      call gl_set_colormap("colormaps/rainbow1024.txt")
       call gl_draw_image(pos, shape(color2), color2, brightness2)
       !
       pos = [-1.0,-1.0, 1.0, 0.0]
-      call gl_set_colormap("colormap/binary_r1024.txt")
+      call gl_set_colormap("colormaps/binary_r1024.txt")
       call gl_draw_image(pos, shape(color1), color1, brightness1)
       call gl_swap_buffers(window)
       !

@@ -14,7 +14,7 @@ This repository provides tools for solving the nonlinear Schrödinger equation a
 - Calculation of eigenvalues and eigenvectors
 
 ### Prerequisites
-Before compiling this project, make sure that the following tools are installed:
+The following tools must to be installed in order to compile the project:
 - Intel Fortran and C++ compilers
 - GLFW version 3.4 or newer
 - OpenGL version 4.1
@@ -22,7 +22,7 @@ Before compiling this project, make sure that the following tools are installed:
 - Arpack-ng
 
 ### Building
-To generate the executables, run the 'make' command in the root directory.
+To generate the executables, run the `make` command in the root directory.
 
 ### Gallery
 

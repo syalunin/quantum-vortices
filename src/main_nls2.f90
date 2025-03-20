@@ -66,7 +66,7 @@ program main_magn
    !
    window = gl_create_window(2*nx, 2*ny, "Simulation")
    call gl_set_window_pos(window, 400, 0)
-   call gl_set_colormap("colormap/rainbow1024.txt")
+   call gl_set_colormap("colormaps/rainbow1024.txt")
    !
    do k = 1,nev
       loc = maxloc(abs(evec(:,k)), dim=1)

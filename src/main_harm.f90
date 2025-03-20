@@ -98,7 +98,7 @@ program main_harm
    !
    window = gl_create_window(mnx, mny, "Harmonic oscillator")
    call gl_set_window_pos(window, 400, 0)
-   call gl_set_colormap("colormap/hsv_matlab1024.txt")
+   call gl_set_colormap("colormaps/hsv_matlab1024.txt")
    !
    do i = 1,m
       do j = 1,m
