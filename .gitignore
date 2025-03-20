@@ -12,3 +12,8 @@ repo_update.sh
 *.env
 *.DS_Store
 repo_update.sh
+*.x
+*.log
+*.env
+*.DS_Store
+repo_update.sh
