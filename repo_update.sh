@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
 fi
 
 echo "*.x" >> .gitignore
-echo "*.log" > .gitignore
+echo "*.log" >> .gitignore
 echo "*.env" >> .gitignore
 echo "*.DS_Store" >> .gitignore
 echo "repo_update.sh" >> .gitignore
