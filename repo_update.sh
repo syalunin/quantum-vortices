@@ -15,6 +15,6 @@ gitignore_add_pattern "*.x"
 gitignore_add_pattern "*.DS_Store"
 gitignore_add_pattern "repo_update.sh"
 
-git add .
+git add -A
 git commit -m "$1"
 git push origin main
